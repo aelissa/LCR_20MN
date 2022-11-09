@@ -1,4 +1,4 @@
-# LCR_20MN
+# The 20-minute city: An equity analysis of Liverpool City Region.
 
 The code was developed to carry out an analysis of walk access to services in Liverpool City Region and its relationship with demographic socio-economic and environmental variables.
 This work is presented in the following paper:
